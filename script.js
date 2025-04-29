@@ -20,4 +20,5 @@ function generateQr(){
 
     },1000);
   }
+  qrText.value="";
 }
