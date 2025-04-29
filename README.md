@@ -4,7 +4,7 @@ Generate custom QR codes instantly using this lightweight web app built with HTM
 
 ##  Live Demo
 
-[QR Code Generator – Live Site](https://md-imam75.github.io/QR-Code-Generator/)
+[QR Code Generator – Live Site](https://md-imam75.github.io/QR_CODE_GENERATOR/)
 
 ##  Features
 
